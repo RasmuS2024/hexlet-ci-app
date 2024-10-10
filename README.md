@@ -1,4 +1,4 @@
-[![testworkflow](https://github.com/RasmuS2024/hexlet-ci-app/actions/workflows/testworkflow.yml/badge.svg)](https://github.com/RasmuS2024/hexlet-ci-app/actions/workflows/testworkflow.yml)
+[![testworkflow](https://github.com/RasmuS2024/hexlet-ci-app/actions/workflows/testworkflow.yml/badge.svg?branch=main)](https://github.com/RasmuS2024/hexlet-ci-app/actions/workflows/testworkflow.yml)
 
 # Example app for CI Hexlet course
 
